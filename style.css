@@ -1,0 +1,348 @@
+h1 { 
+  color: red;
+  text-align: center;
+  width
+}
+h2{
+  text-align: center;
+  border-style: solid;
+  color:blueviolet;
+  border-color: blue;
+}
+
+<h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  background: black;
+  }
+
+
+p {
+  border-style: solid;
+  border-width: 10px;
+  color: black;
+}
+body {
+  background-color:rgb(255, 213, 122);
+}
+
+
+
+
+.Baseball {
+  color: black;
+  font-size: 24px;
+  text-align: left;
+}
+
+p {
+  color: white;
+  font-size: 24px;
+  text-align: left;
+}
+
+#baseball {
+  Margin-top: 40px;
+  margin-bottom:50px;
+  margin-right: 30px;
+  margin-left: 30px;
+
+  
+  }
+
+
+div:hover {
+  background-color: transparent;
+
+}
+
+a:hover {
+  color: red;
+}
+
+
+
+<h1 class="Baseball"> Front Page</h1>
+<h2 class="Basketball2"> Title</h2>
+.basketball {
+  background: white;
+}
+.basketball2 {
+  color:blue;
+}
+
+
+
+
+section a {
+  color:black:
+}
+.Baseball a {
+  color: red;
+}
+section> a{
+  color:aquamarine;
+}
+.Baseball> a {
+  color: brown;
+}
+
+#heading p {
+  color: red;
+}
+
+
+<section class="sports">
+<p> Learn about sports</p>
+<a href="Sports">https://www.espn.com/</a>
+<div>
+<a href="#More sports">https://www.foxsports.com/</a>
+</div>
+</section>
+
+.img src {
+  style="width:300px;height:300px;">
+  
+}
+h5 {
+  margin-top: 50px;
+  margin-bottom: 40px;
+  margin-right: 200px;
+  margin-left: 0px;
+}
+
+
+
+#soccer p {
+  color:lavender;
+  background-color:gold;
+}
+
+div {
+  font-style: initial;
+background-color: lightcoral;
+width: 85px;
+border: 20px solid blue;
+padding: 165px;
+margin: 15px;
+}
+
+
+@keyframes example {
+  100%  {background-color:transparent; left:0px; top:0px;}
+  50%  {background-color:transparent; left:200px; top:0px;}
+  50%  {background-color:transparent; left:200px; top:200px;}
+  50%  {background-color:transparent; left:0px; top:200px;}
+  100% {background-color:transparent; left:10px; top:10px;}
+}
+
+body {
+  color: hotpink;
+  position: sticky;         
+  background: aqua;
+  height: 500px;
+  width: 500px;       
+}
+
+.body {
+  background: red;
+  height: 100px;
+  width: 100px; 
+  position: static;   
+}
+
+.h3 {
+
+  position: absolute;
+  height: 300px;
+  width: 200px;
+}
+
+
+
+/*
+
+a.pseudo:active{
+    color: green;
+}
+div.position{
+    position: absolute;
+    left: 500px;
+    right: 400px;
+    top: 800px;
+}
+
+nav.sticky {
+    position: sticky;
+    top: 0;
+    padding: 3px;
+
+}
+.box {
+    background-color: lightgrey;
+    width: 400px;
+    border: 20px solid yellowgreen;
+    padding: 5px;
+    margin: 50px;
+}
+
+p {
+    background-color: yellowgreen;
+    color: whitesmoke;
+    margin: 4px 100px 40px 50px;
+
+
+    
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.pseudo:visited{
+    color: yellow;
+}
+
+a.pseudo:hover{
+    color: red;
+
+
+
+
+/*
+div {
+    background: red;
+}
+
+span {
+    background: yellow;
+    
+    display: inline-block;
+
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background: lightblue;
+    font-size: 24px;
+  }
+  
+  .container a {
+    color: red;
+  }
+  
+  .container > a {
+    color: green;
+  }
+  
+  p {
+    font-size: 42px;
+  }
+  
+  p {
+  font-size : 24px;
+  
+  }
+  
+  p {
+    font-size: 42px!important;
+  }
+  
+  h4 {
+    color: yellowgreen;
+  }
+  
+  .green {
+    color: green;
+  }
+  #blue{
+    color:blue;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
