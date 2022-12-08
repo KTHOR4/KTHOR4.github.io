@@ -1,4 +1,304 @@
-h1 { 
+body {
+  background-color: whitesmoke;
+}
+h1 {
+ color: blue;
+ position:absolute;
+ left: 1200px;
+ top: 80px;
+ 
+ 
+}
+
+
+h2{
+  color: goldenrod;
+  text-align: center;
+  border-style: solid;
+  border-width: 5px;
+}
+
+h3{
+  color:blue;
+  position: absolute;
+  top: 590px;
+  left: 800px;
+  height: 20px;
+  padding: 150px;
+}
+
+mark {
+  position: absolute;
+  left: 700px;
+  background-color: whitesmoke;
+  font-size: large;
+  font-weight: 700;
+  
+}
+
+
+div.zz {
+  position: absolute;
+  top: 410px;
+  left: 1100px;
+}
+
+div.h{
+  position: absolute;
+  top: 800px;
+  left: 1000px;
+}
+.strong {
+ position:absolute;
+ top: 150px;
+ text-indent: 150px;
+ right: 600px;
+}
+ 
+
+
+
+.a {
+  top: 1500px;
+  left: 200px;
+}
+
+
+.trt {
+  position:absolute;
+  color: blue;
+  right: 40%;
+  top: 50%;
+}
+
+.hut {
+  position: absolute;
+  color: blue;
+  top: 700px;
+  left: 10px;
+}
+
+
+q {
+  color: goldenrod;
+  padding: 1px;
+  top: 500px;
+  left: 20px;
+  text-decoration:underline;
+  border-style: solid;
+  border-width: 20px;
+  border-color: goldenrod;
+  margin: 10px;
+}
+
+.c {
+  position:absolute;
+  top: 155px;
+  left: 100px;
+}
+
+.zxc {
+  position:absolute;
+  color: blue;
+  font-size: xx-large;
+  top:100px;
+  left: 1200px;
+}
+ .pt {
+  position:absolute;
+  color:blue;
+  top: 300px;
+  right: 100px;
+  font-size: 60px;
+ }
+
+ .n {
+  position:absolute;
+  top: 500px;
+  right: 75px;
+ }
+
+p {
+  position:absolute;
+  color: blue;
+  top: 100px;
+  left: 500px;
+  margin: 100px;
+  font-size: x-large;
+}
+
+ul {
+  position: absolute;
+  left: 1100px;
+  top: 600px;
+  font-size: larger;
+  font-style: oblique;
+}
+
+.d {
+  position: absolute;
+  top: 170px;
+  right: 25px;
+}
+
+.e {
+  position: absolute;
+  top: 800px;
+}
+
+.f {
+  position: absolute;
+  top: 800px;
+  right: 50px;
+}
+
+.g {
+  position:absolute;
+  top: 800px;
+  right:  850px;
+}
+
+header {
+  position: absolute;
+  left: 1000px;
+  color: blue;
+  font-size: xx-large;
+  
+}
+
+ol {
+  position: absolute;
+  top: 350px;
+  left: 300px;
+  font-size: x-large;  
+}
+
+#w {
+position:absolute;
+top: 550px;
+left: 200px;
+}
+
+h5 {
+  position: absolute;
+border: goldenrod;
+border-width: medium;
+left: 2000px;
+font-size: large;
+color:blue;
+font-size:large;
+top: 850px;
+left: 800px;
+}
+
+h6 {
+  position: absolute;
+  top: 1100px;
+  left: 800px;
+  font-size: large;
+  color: blue;
+}
+
+
+strong {
+  position: absolute;
+  top: 350px;
+  right: 800px;
+  font-size: large;
+  color: blue;
+}
+
+#t {
+  position:absolute;
+top: 550px;
+right: 400px;
+}
+
+#v {
+  position:absolute;
+top: 950px;
+right: 400px;
+}
+
+footer {
+
+left: 100px;
+color: goldenrod;
+  text-align: center;
+  border-style: solid;
+  border-width: 50px;
+}
+
+form {
+  position: absolute;
+  top: 300px;
+  left: 200px;
+}
+
+#i {
+
+  position: absolute;
+  top: 950px;
+  left: 200px;
+}
+  
+#o {
+  position:absolute;
+  top: 200px;
+  right: 1150px;
+}
+
+h1 {
+  position: absolute;
+  top: 150px;
+  left:400px;
+  border-color:goldenrod;
+  border-style: solid ;
+  border-width: large;
+  
+  
+}
+
+#r {
+  position:absolute;
+  top: 400px;
+  right: 400px;
+}
+
+h4 {
+  position: absolute;
+  color: blue;
+  top: 300px;
+  font-size: x-large;
+  left: 1735px;
+  
+}
+
+.uu {
+  position: absolute;
+  top: 75px;
+  color: blue;
+  font-size: xx-large;
+  
+}
+
+#fv {
+  position:absolute;
+  top: 700px;
+  left: 250px;
+}
+
+.qp {
+  position: absolute;
+  color: blue;
+  top: 700px;
+  left: 1150px;
+  font-size: xx-large;
+}
+
+/*
+h1 {
+ 
   color: red;
   text-align: center;
   width
@@ -160,7 +460,7 @@ body {
 
 
 
-/*
+
 
 a.pseudo:active{
     color: green;
@@ -220,7 +520,7 @@ span {
 
 }
 
-*/
+
 
 
 
